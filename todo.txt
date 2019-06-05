@@ -1,2 +1,3 @@
 add spec for domain builder +url-insights @work
 make image backup +dev @work
+setup automatic git push for todo
