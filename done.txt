@@ -2,3 +2,4 @@ x 2019-06-04 add documentation +url-insights @work
 x 2019-06-04 add domain controller spec +url-insights @work
 x 2019-06-04 add spec for failed requests
 x 2019-06-05 setup automatic git push for todo
+x 2019-06-05 add spec for domain builder +url-insights @work
