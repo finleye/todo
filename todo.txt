@@ -1,2 +1,5 @@
 make image backup +dev @work
-setup dockerization of sidekiq config
+notes for seth @work
+get sidekiq url from staging analytics-worker +url-insights @work
+setup manifest for worker instance +url-insights @work
+check in on Amanda's progress
