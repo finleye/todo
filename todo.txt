@@ -1,5 +1,4 @@
 make image backup +dev @work
 notes for seth @work
-x 2019-06-07 check in on Amanda's progress
 domain includes page count in index +url-insights @work
 add a real cache +url-insights @work
