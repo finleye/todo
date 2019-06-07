@@ -1,7 +1,7 @@
 make image backup +dev @work
 notes for seth @work
 get sidekiq url from staging analytics-worker +url-insights @work
-setup manifest for worker instance +url-insights @work
+x 2019-06-07 setup manifest for worker instance +url-insights @work
 check in on Amanda's progress
 domain includes page count in index +url-insights @work
 add a real cache +url-insights @work
