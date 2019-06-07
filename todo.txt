@@ -1,4 +1,4 @@
 make image backup +dev @work
-notes for seth @work
+x 2019-06-07 notes for seth @work
 domain includes page count in index +url-insights @work
 add a real cache +url-insights @work
