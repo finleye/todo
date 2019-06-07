@@ -9,3 +9,4 @@ x 2019-06-06 DRY up the domain data builder +url-insights @work
 x 2019-06-07 get sidekiq url from staging analytics-worker +url-insights @work
 x 2019-06-07 setup manifest for worker instance +url-insights @work
 x 2019-06-07 check in on Amanda's progress
+x 2019-06-07 notes for seth @work
