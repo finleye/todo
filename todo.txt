@@ -1,4 +1,4 @@
 make image backup +dev @work
 domain includes page count in index +url-insights @work
 add a real cache +url-insights @work
-Get ready to visit Cayuga
+Get ready to visit Cayuga @personal
