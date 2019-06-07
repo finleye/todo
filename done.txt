@@ -6,3 +6,4 @@ x 2019-06-05 add spec for domain builder +url-insights @work
 x 2019-06-05 setup auto push for notes
 x 2019-06-06 setup dockerization of sidekiq config +url-insights @work
 x 2019-06-06 DRY up the domain data builder +url-insights @work
+x 2019-06-07 get sidekiq url from staging analytics-worker +url-insights @work
