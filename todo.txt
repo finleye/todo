@@ -1,6 +1,6 @@
-(A) put fathers day cards in the mail @personal
-pair with amanda on bug @work
+(A) put fathers day cards in the mail due:2019-06-10 @personal
 (C) make image backup +dev @work
+pair with amanda on bug @work
 domain includes page count in index +url-insights @work
 add a real cache +url-insights @work
 Self review due Wednesday @work
