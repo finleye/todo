@@ -1,9 +1,9 @@
+(Z) pair with amanda on bug @work
 make image backup +dev @work
 domain includes page count in index +url-insights @work
 add a real cache +url-insights @work
 Self review due Wednesday @work
 Peer review due 6/12 @work
-merge url-insights sidekiq branch +url-insights @work
-(Z) pair with amanda on bug @work
+(Z) merge url-insights sidekiq branch +url-insights @work
 add redirct param for org switching +housekeeping @work
 put fathers day cards in the mail @personal
