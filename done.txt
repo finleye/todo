@@ -14,3 +14,4 @@ x 2019-06-07 Gym @personal
 x 2019-06-10 Get ready to visit Cayuga @personal
 x 2019-06-10 look at simple account @personal
 x 2019-06-10 merge url-insights sidekiq branch +url-insights @work
+x 2019-06-10 add redirct param for org switching +housekeeping @work
