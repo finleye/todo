@@ -4,3 +4,4 @@ add a real cache +url-insights @work
 Selft review due Wednesday @work
 Peer review due 6/12 @work
 merge url-insights sidekiq branch +url-insights @work
+pair with amanda on bug @work
