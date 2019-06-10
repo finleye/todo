@@ -1,5 +1,5 @@
+x 2019-06-10 merge url-insights sidekiq branch +url-insights @work
 pair with amanda on bug @work
-(X) merge url-insights sidekiq branch +url-insights @work
 make image backup +dev @work
 domain includes page count in index +url-insights @work
 add a real cache +url-insights @work
