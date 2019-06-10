@@ -2,7 +2,7 @@
 (A) Self review due Wednesday @work
 (B) domain includes page count in index +url-insights @work
 (C) make image backup +dev @work
-(Z) add redirct param for org switching +housekeeping @work
+(A) add redirct param for org switching +housekeeping @work
 x 2019-06-10 put fathers day cards in the mail due:2019-06-10 @personal
 pair with amanda on bug @work
 Peer review due 6/12 @work
