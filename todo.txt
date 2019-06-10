@@ -1,7 +1,7 @@
 make image backup +dev @work
 domain includes page count in index +url-insights @work
 add a real cache +url-insights @work
-Selft review due Wednesday @work
+Self review due Wednesday @work
 Peer review due 6/12 @work
 merge url-insights sidekiq branch +url-insights @work
 pair with amanda on bug @work
