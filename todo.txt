@@ -5,3 +5,4 @@ Self review due Wednesday @work
 Peer review due 6/12 @work
 merge url-insights sidekiq branch +url-insights @work
 pair with amanda on bug @work
+add redirct param for org switching +housekeeping @work
