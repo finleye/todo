@@ -1,5 +1,4 @@
 make image backup +dev @work
 domain includes page count in index +url-insights @work
 add a real cache +url-insights @work
-x 2019-06-10 Get ready to visit Cayuga @personal
 look at simple account @personal
