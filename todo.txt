@@ -1,9 +1,9 @@
-(A) put fathers day cards in the mail due:2019-06-10 @personal
-(C) make image backup +dev @work
-pair with amanda on bug @work
-(B) domain includes page count in index +url-insights @work
+x 2019-06-10 put fathers day cards in the mail due:2019-06-10 @personal
 (A) add a real cache +url-insights @work
 (A) Self review due Wednesday @work
-Peer review due 6/12 @work
 (A) add redirct param for org switching +housekeeping @work
+(B) domain includes page count in index +url-insights @work
+(C) make image backup +dev @work
+pair with amanda on bug @work
+Peer review due 6/12 @work
 Look at pitching documents for Syd +pitching @work
