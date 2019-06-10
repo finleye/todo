@@ -1,5 +1,5 @@
 (Y) pair with amanda on bug @work
-(Y) merge url-insights sidekiq branch +url-insights @work
+(X) merge url-insights sidekiq branch +url-insights @work
 make image backup +dev @work
 domain includes page count in index +url-insights @work
 add a real cache +url-insights @work
