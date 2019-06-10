@@ -15,3 +15,4 @@ x 2019-06-10 Get ready to visit Cayuga @personal
 x 2019-06-10 look at simple account @personal
 x 2019-06-10 merge url-insights sidekiq branch +url-insights @work
 x 2019-06-10 add redirct param for org switching +housekeeping @work
+x 2019-06-10 put fathers day cards in the mail due:2019-06-10 @personal
