@@ -6,3 +6,4 @@ pair with amanda on bug @work
 (A) Self review due Wednesday @work
 Peer review due 6/12 @work
 (A) add redirct param for org switching +housekeeping @work
+Look at pitching documents for Syd +pitching @work
