@@ -1,8 +1,0 @@
-(A) add a real cache +url-insights @work
-(A) Self review due Wednesday @work
-(B) domain includes page count in index +url-insights @work
-(C) make image backup +dev @work
-pair with amanda on bug @work
-Peer review due 6/12 @work
-Look at pitching documents for Syd +pitching @work
-ask lorgio about endpoint for sidekiq instance +url-insights @work
